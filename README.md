@@ -26,7 +26,7 @@ This tutorial is a brief walk-through for installing a VPN (Virtual Private Netw
 </p>
 <p>
   
-First thing's first, we'll go ahead and create our virtual machine in Azure. For this demonstration, we're using Windows 10. Then, we're going to go ahead and connect to it in Remote Desktop.
+First thing's first, we'll go ahead and create our virtual machine in Azure. For this demonstration, we're using Windows 10. Then, we're going to go ahead and connect to it in Remote Desktop via port 3389.
 </p>
   
 <p>
@@ -45,11 +45,11 @@ The next step is to head on over to Protonvpn.com on our VM, and download the ve
 <img src="https://i.postimg.cc/tTs68tk0/Screenshot-2023-11-14-232815.png"/> <img src="https://i.postimg.cc/4N6cC363/Screenshot-2023-11-14-233001.png"/>
 </p>
 <br />
-Then we'll run through and complete our setup Wizard really quick.
+Once downloaded, we'll open the file and run through its installation + setup Wizard.
 
 
 <p>
-Once the application has installed, you can then enter your credentials previously established with protonvpn, and log right in.
+Once the application has installed, you can then enter your credentials previously established with protonvpn, and log right in. If you haven't already created an account with protonvpn, you should be able to through the application itself.
   
   <img src="https://i.postimg.cc/rsWYGfVV/Screenshot-2023-11-15-003351.png"/>
 </p>
