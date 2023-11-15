@@ -60,4 +60,5 @@ Once the application has installed, you can then enter your credentials previous
   <img src="https://i.postimg.cc/4xX9XTPQ/Screenshot-2023-11-14-235038.png"/>
  
   Success! Clearly, the VPN does its job. So well so, that the default loading browser is in a completely new language without meddling in any additional settings.
+  
 </p>
