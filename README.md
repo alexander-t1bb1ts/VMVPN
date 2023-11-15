@@ -17,7 +17,7 @@ This tutorial is a brief walk-through for installing a VPN (Virtual Private Netw
 
 <h2>Off-screen step:</h2>
 
-- It's probably advantageous to go ahead and create your protonvpn account on your actual computer before you actually install it on your virtual machine. For all intents and purposes, this tutorial begins after the creation of the ProtonVPN "Free" account <a href="https://protonvpn.com/">here</a>. 
+- It's probably advantageous to go ahead and create your protonvpn account on your actual computer before you actually install it on your virtual machine. For all intents and purposes, this tutorial begins after the creation of the ProtonVPN "Free" account, which you can create <a href="https://protonvpn.com/">here</a>. 
 
 <h2>Walkthough</h2>
 
@@ -50,12 +50,13 @@ Then we'll run through our setup Wizard really quick.
 
 <p>
 <img src="https://i.postimg.cc/rsWYGfVV/Screenshot-2023-11-15-003351.png"/>
-Once you enter your credentials previously established for your own protonVPN you can sign right into the actual application.
+Once the application has installed, you can then enter your credentials previously established with protonvpn, and log right in.
 </p>
 <br />
 
 <p>It is limited, being a free service, but of course you do have a few options to explore. For this demonstration, I eventually chose the Japanese server, and then asked bing what my IP address was yet again.
   <img src="https://i.postimg.cc/sxShgjbw/Screenshot-2023-11-14-234933.png"/>
   <img src="https://i.postimg.cc/4xX9XTPQ/Screenshot-2023-11-14-235038.png"/>
+ 
   Success! Clearly, the VPN does its job. So well so, that the default loading browser is in a completely new language without meddling in any additional settings.
 </p>
