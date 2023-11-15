@@ -41,7 +41,7 @@ Obviously, its IP address is how we establish that connection, but just to verif
 The next step is to head on over to Protonvpn.com on our VM, and download the version appropriate for its operating system.
 </p>
 <p>
-<img src="https://i.postimg.cc/tTs68tk0/Screenshot-2023-11-14-232815.png"/> <=img src="https://i.postimg.cc/4N6cC363/Screenshot-2023-11-14-233001.png"/>
+<img src="https://i.postimg.cc/tTs68tk0/Screenshot-2023-11-14-232815.png"/> <img src="https://i.postimg.cc/4N6cC363/Screenshot-2023-11-14-233001.png"/>
 </p>
 <br />
 Then we'll run through our setup Wizard really quick.
@@ -49,7 +49,7 @@ Then we'll run through our setup Wizard really quick.
 
 <p>
 <img src="https://i.postimg.cc/rsWYGfVV/Screenshot-2023-11-15-003351.png"/>
-Once you enter your credentials previously established for protonVPN you can sign right into the actual application.
+Once you enter your credentials previously established for your own protonVPN you can sign right into the actual application.
 </p>
 <br />
 
