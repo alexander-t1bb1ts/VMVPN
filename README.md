@@ -17,7 +17,7 @@ This tutorial is a brief walk-through for installing a VPN (Virtual Private Netw
 
 <h2>Off-screen step:</h2>
 
-- It's probably advantageous to go ahead and create your protonvpn account on your actual computer before you actually install it on your virtual machine. For all intents and purposes, this tutorial begins after the creation of the ProtonVPN "Free" account, which you can create <a href="https://protonvpn.com/">here</a>. 
+- It's probably advantageous to go ahead and create your protonvpn account on your actual computer before you actually install it on your virtual machine. For all intents and purposes of keeping my credentials private, this tutorial begins after the creation of the ProtonVPN "Free" account, which you can create <a href="https://protonvpn.com/">here</a>. 
 
 <h2>Walkthough</h2>
 
@@ -34,7 +34,7 @@ First thing's first, we'll go ahead and create our virtual machine in Azure. For
 </p>
 <p>
   
-Obviously, its IP address is how we establish that connection, but just to verify for educational purposes, I've done a quick "What's my IP address?" search, and it's yielded the exact number we would have suspected the IP address to be. 172.174.231.250 out of lovely Washington, Virginia.
+Obviously, its IP address is how we establish that connection, but just to verify for educational purposes, I've done a quick "What's my IP address?" search, and it's yielded the exact number we would have expected the IP address to be. 172.174.231.250 - out of lovely Washington, Virginia.
 </p>
 <br />
 
@@ -45,7 +45,7 @@ The next step is to head on over to Protonvpn.com on our VM, and download the ve
 <img src="https://i.postimg.cc/tTs68tk0/Screenshot-2023-11-14-232815.png"/> <img src="https://i.postimg.cc/4N6cC363/Screenshot-2023-11-14-233001.png"/>
 </p>
 <br />
-Then we'll run through our setup Wizard really quick.
+Then we'll run through and complete our setup Wizard really quick.
 
 
 <p>
@@ -55,10 +55,10 @@ Once the application has installed, you can then enter your credentials previous
 </p>
 <br />
 
-<p>It is limited, being a free service, but of course you do have a few options to explore. For this demonstration, I eventually chose the Japanese server, and then asked bing what my IP address was yet again.
+<p>It is limited, being a free service, but of course you do have a few options to explore. For this demonstration, I eventually chose to connect to the Japanese server, and then asked bing what my IP address was yet again.
   <img src="https://i.postimg.cc/sxShgjbw/Screenshot-2023-11-14-234933.png"/>
   <img src="https://i.postimg.cc/4xX9XTPQ/Screenshot-2023-11-14-235038.png"/>
  
   Success! Clearly, the VPN does its job. So well so, that the default loading browser is in a completely new language without meddling in any additional settings.
-  
+Any step you can take to protect your identity online is certainly a step in the right direction.
 </p>
