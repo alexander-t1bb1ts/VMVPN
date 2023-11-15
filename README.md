@@ -17,7 +17,7 @@ This tutorial is a brief walk-through for installing a VPN (Virtual Private Netw
 
 <h2>Tips + Tricks</h2>
 
-- It's probably advantageous to go ahead and create your protonvpn account on your actual computer before you actually install it on your virtual machine. For all intents and purposes, this tutorial begins after the creation of the ProtonVPN "Free" account.
+- It's probably advantageous to go ahead and create your protonvpn account on your actual computer before you actually install it on your virtual machine. For all intents and purposes, this tutorial begins after the creation of the ProtonVPN "Free" account <a href="https://protonvpn.com/" here/>
 
 <h2>Walkthough</h2>
 
