@@ -59,6 +59,6 @@ Once the application has installed, you can then enter your credentials previous
   <img src="https://i.postimg.cc/sxShgjbw/Screenshot-2023-11-14-234933.png"/>
   <img src="https://i.postimg.cc/4xX9XTPQ/Screenshot-2023-11-14-235038.png"/>
  
-  Success! Clearly, the VPN does its job. So well so, that the default loading browser is in a completely new language without meddling in any additional settings.
-Any step you can take to protect your identity online is certainly a step in the right direction.
+  Success! Clearly, the VPN does its job. So well so, that the default loading browser is in a completely new language without meddling in any additional settings. 
+  Any step in adding security to your internet use is certainly a step in the right direction. Now you can do so confidently with a virtual machine!
 </p>
