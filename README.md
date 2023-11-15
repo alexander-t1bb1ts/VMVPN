@@ -15,9 +15,9 @@ This tutorial is a brief walk-through for installing a VPN (Virtual Private Netw
 
 - Windows 10</b> (21H2)
 
-<h2>Tips + Tricks</h2>
+<h2>Off-screen step:</h2>
 
-- It's probably advantageous to go ahead and create your protonvpn account on your actual computer before you actually install it on your virtual machine. For all intents and purposes, this tutorial begins after the creation of the ProtonVPN "Free" account <a href="https://protonvpn.com/" here/>
+- It's probably advantageous to go ahead and create your protonvpn account on your actual computer before you actually install it on your virtual machine. For all intents and purposes, this tutorial begins after the creation of the ProtonVPN "Free" account <a href="https://protonvpn.com/">here</a>. 
 
 <h2>Walkthough</h2>
 
@@ -33,7 +33,8 @@ First thing's first, we'll go ahead and create our virtual machine in Azure. For
 <img src="https://i.postimg.cc/qBCnLwgy/Screenshot-2023-11-14-231434.png"/>
 </p>
 <p>
-Obviously, its IP address is how we establish that connection, but just to verify for educational purposes, I've done a quick "What's my IP address?" search, and it's yielded the exact number we would have suspected the IP address to be. 172.174.231.250 Out of lovely Washington, Virginia.
+  
+Obviously, its IP address is how we establish that connection, but just to verify for educational purposes, I've done a quick "What's my IP address?" search, and it's yielded the exact number we would have suspected the IP address to be. 172.174.231.250 out of lovely Washington, Virginia.
 </p>
 <br />
 
