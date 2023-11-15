@@ -25,11 +25,14 @@ This tutorial is a brief walk-through for installing a VPN (Virtual Private Netw
 <img src="https://i.postimg.cc/QxG7n7WP/Screenshot-2023-11-14-230815.png"/>
 </p>
 <p>
+  
 First thing's first, we'll go ahead and create our virtual machine in Azure. For this demonstration, we're using Windows 10. Then, we're going to go ahead and connect to it in Remote Desktop.
+</p>
   
 <p>
 <img src="https://i.postimg.cc/qBCnLwgy/Screenshot-2023-11-14-231434.png"/>
 </p>
+<p>
 Obviously, its IP address is how we establish that connection, but just to verify for educational purposes, I've done a quick "What's my IP address?" search, and it's yielded the exact number we would have suspected the IP address to be. 172.174.231.250 Out of lovely Washington, Virginia.
 </p>
 <br />
