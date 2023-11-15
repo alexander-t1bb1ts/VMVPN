@@ -49,8 +49,9 @@ Then we'll run through our setup Wizard really quick.
 
 
 <p>
-<img src="https://i.postimg.cc/rsWYGfVV/Screenshot-2023-11-15-003351.png"/>
 Once the application has installed, you can then enter your credentials previously established with protonvpn, and log right in.
+  
+  <img src="https://i.postimg.cc/rsWYGfVV/Screenshot-2023-11-15-003351.png"/>
 </p>
 <br />
 
